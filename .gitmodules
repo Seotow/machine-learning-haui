@@ -1,0 +1,3 @@
+[submodule "license-plate-recognition"]
+        path = license-plate-recognition
+        url = git@github.com:Seotow/license-plate-recognition.git
